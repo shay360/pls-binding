@@ -7,7 +7,7 @@ For using this script you need to use attribute called pls-binding.
 3. Create HTML Element to bind with the input and give it the same attribute value
 
 ### Example:
-```javascript
+```html
 <!doctype html>
 <html lang="en">
 <head>
