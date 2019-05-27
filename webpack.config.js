@@ -5,7 +5,7 @@ module.exports = {
         filename: "pls-binding.min.js",
         path: path.resolve(__dirname, 'dist')
     },
-    mode: 'none',
+    mode: 'production',
     plugins: [],
     module: {
         rules: [
